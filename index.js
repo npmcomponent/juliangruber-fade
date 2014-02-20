@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var prefixed = require('prefixed');
+var prefixed = require('juliangruber-prefixed');
 
 /**
  * Expose `fade`.
